@@ -40,6 +40,7 @@ And thank you for your help!
 * [41n.io](http://www.41n.io/)
 * [42connect](https://www.42connect.com/)
 * [7signal](http://7signal.com/)
+* [ABB](https://new.abb.com/jobs/center#JobCountry=US&JobCity=Cleveland&JobFunction=any&JobRole=any&JobText=)
 * [Accellis](https://accellis.com/)
 * [Acroment](http://www.acroment.com/careers/)
 * [Acumen Solutions](http://www.acumensolutions.com/careers/)
@@ -68,6 +69,7 @@ And thank you for your help!
 * [Avesta Systems](http://avestacorp.com/about-us/#careers)
 * [AVI Foodsystems](http://www.careerbuilder.com/jobs-at-avi--foodsystems--inc/CHM14W6B55S1VMPJY8T?cat1=JN008)
 * [Avvenire Solutions](http://www.avvenireinc.com/)
+* [Aztek](https://www.aztekweb.com/)
 * [B3 Innovations](https://www.b3innovations.com/)
 * [Banyan Tech](http://www.banyantechnology.com/)
 * [Barkeep4U](http://www.barkeep4u.com/)
@@ -156,6 +158,7 @@ And thank you for your help!
 * [Everkey](https://everykey.com/)
 * [Everstream](http://everstream.net/)
 * [Excellware](http://www.excellware.com/)
+* [ExchangeBase](https://www.exchangebase.com/) - position on [StackOverflow](https://stackoverflow.com/jobs/279926/software-development-manager-exchangebase)
 * [Expand Interactive](http://www.expandinteractive.com/)
 * [Expedient](https://www.expedient.com/company/careers-opportunities/)
 * [ExpenseBot](http://expensebot.com/)
@@ -257,6 +260,7 @@ And thank you for your help!
 * [Mod Meals](http://mod-meals.com/)
 * [Monarch Teaching Technology](https://www.monarchtt.com/)
 * [Moreland Connect](http://www.morelandconnect.com/careers/)
+* [Moss Corporation](http://www.mossaffiliatemarketing.com/) - their [Stack Overflow page](https://stackoverflow.com/jobs/companies/moss-corporation)
 * [MRI Software](http://www.mrisoftware.com/)
 * [MTD](http://www.mtdproducts.com/equipment/en/mtdproducts) - they're getting into robotic mowers
 * [mv|designlabs](https://www.mvdesignlabs.com/)
@@ -478,6 +482,7 @@ And thank you for your help!
 * [Fresh Lab](http://www.refreshcollective.org/freshlab/) - makerspace for music, clothing
 * [CoolTech Challenge](https://mobile.twitter.com/RITECoolTech) - their site not up?
 * [Web Association CLE](https://mobile.twitter.com/WebCleveland)
+* [Northern Ohio Amateur Radio Society](https://www.noars.net/)
 
 ## Events
 
@@ -542,6 +547,9 @@ And thank you for your help!
 * [Kent Hack Enough](https://khe.io/) - KSU Hackathon
 * [Hack YSU](http://hackysu.com/)-YSU's annual hackathon
 * [HackerX](https://hackerx.org/) - the world’s largest invite-only networking & recruiting event for developers (one hosted in CL)
+* [NOARSfest](https://www.noars.net/hamfests/noarsfest/) presented by The Northern Ohio Amateur Radio Society
+* [Cleveland Tech Summit](http://cleveland-summit.com/)
+* [CWRU [You]Tech Conference](https://case.edu/utech/youtech-conference-2019)
 
 ## Job Search Sites
 
@@ -588,6 +596,7 @@ And thank you for your help!
 * [JumpStart Jobs Site](http://www.jumpstartinc.org/talent/job-seekers/)
 * [Find.jobs](https://find.jobs/)
 * [Adafruit Jobs Board](https://jobs.adafruit.com/)
+* [JumpStart client job search](https://jumpstartinc.secure.force.com/careers)
 
 ## Recruiters
 
@@ -703,3 +712,4 @@ And thank you for your help!
 * [Why Ohio Is The Best State In America To Launch A Start Up](https://www.forbes.com/sites/petertaylor/2017/02/20/why-ohio-is-the-best-state-in-america-to-launch-a-start-up/#77b4b9dd1d94)
 * [The 20 Hottest Cities for Tech Jobs Now](https://amp.timeinc.net/time/money/4812479/top-20-cities-tech-jobs/?source=dam)
 * [The Hunt For The Next Portland: Hoteliers Bet Big On Small City America](https://www.fastcompany.com/40403310/the-hunt-for-the-next-portland-hoteliers-bet-big-on-small-city-america)
+* [How does Cleveland rank against Columbus, Pittsburgh for becoming the nation’s next tech hub?](https://www.cleveland.com/news/2019/05/how-does-cleveland-rank-against-columbus-pittsburgh-for-becoming-the-nations-next-tech-hub.html)
